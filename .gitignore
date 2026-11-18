@@ -1,12 +1,25 @@
+# Configuración local
 .claude/
+
+# Borrador anterior en LaTeX (Entrega 1)
 latex/
+
+# Material del curso (no se publica)
 Construccion Flujos de Caja.pptx
 Estudio del Mercado.pptx
 Estudio Tecnico Formulacion de Proyectos.pptx
 Evaluacion de Proyectos.pptx
-FORMULACIÓN Y EVALUACIÓN DE PROYECTOS.pdf
+FORMULACI*N Y EVALUACI*N DE PROYECTOS.pdf
 Preparacion y Evaluacion de Proyectos.pptx
 Presentacion Inversiones del Proyecto Ingenieria Sistemas.pptx
 SGC-MT-002 MATRIZ DE RIESGOS Y OPORTUNIDADES.xlsx
 TABLA DE CONTENIDO.docx
 Tecnicas de proyeccion del mercado (1).pptx
+
+# Archivos temporales de Office / LibreOffice / OnlyOffice
+~$*
+.~lock.*#
+
+# Python
+__pycache__/
+*.pyc
